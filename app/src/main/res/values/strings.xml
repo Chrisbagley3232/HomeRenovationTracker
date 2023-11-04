@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HomeRenovationTracker</string>
+    <string name="login_page">Login</string>
+    <string name="budget_btn">Budget</string>
+    <string name="materials_btn">Materials</string>
+    <string name="calculator_btn">Calculators</string>
+    <string name="measurements_btn">Measurements</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login</string>
+
+    <string name="calc_header">Calculators</string>
+    <string name="sqft_btn">Square Footage</string>
+    <string name="floor_btn">Flooring</string>
+    <string name="drywall_btn">Drywall</string>
+    <string name="length">Length</string>
+    <string name="width">Width</string>
+
+    <string name="sqft_calc_header">Square Footage Calculator</string>
+    <string name="sqft_calc_btn">Calculate</string>
+    <string name="floor_header">Flooring Calculator</string>
+    <string name="coverage">SqFt each box covers</string>
+    <string name="price">Price per box</string>
+    <string name="floor_calc_btn">Calculate</string>
+    <string name="waste">**10% waste accounted for automatically**</string>
+
+    <string name="dry_calc_header">Drywall Calculator</string>
+    <string name="w1_length">Length of first wall (inches)</string>
+    <string name="w2_length">Length of second wall (inches)</string>
+    <string name="height">Height of wall (inches)</string>
+    <string name="dry_price">Price of drywall per sheet</string>
+    <string name="dry_notice">**Calculated using 48" x 96" sheets**</string>
+    <string name="dry_calc_btn">Calculate</string>
+
+    <string name="add_to_list">Add to List</string>
+    <string name="materials_list_header">Materials List</string>
+
+    <string name="add_to_measure_list">Add to List</string>
+    <string name="measurement_list_header">Measurement List</string>
+</resources>
+
